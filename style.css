@@ -2,6 +2,12 @@
  * Globals
  */
 
+.example img {
+  border: 1px solid #fff;
+  margin: 1px;
+  padding; 0px;
+  }
+
 /* Links */
 a,
 a:focus,
